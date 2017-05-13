@@ -1,2 +1,2 @@
 # GitTraining
-Git Training
+Git Training & Testing.
